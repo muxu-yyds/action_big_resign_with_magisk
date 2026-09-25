@@ -1,3 +1,5 @@
+permissions:
+  contents: write
 name: sign-boot-modem-bsp
 
 on:
